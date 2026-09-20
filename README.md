@@ -1,6 +1,3 @@
-Here is the clean, single-block `README.md` formatted for easy copying:
-
-```markdown
 # 🛡️ SignalProof — Real-Time Emergency Intelligence & Verification Engine
 
 SignalProof is an AI-powered emergency verification and intelligence system designed for citizens in India. By cross-referencing citizen incident reports against nationwide official RSS bulletins (NDMA, IMD, local authorities), SignalProof provides real-time hazard verification scores, dynamic location mapping, and empathetic, actionable safety guidance.
@@ -41,9 +38,6 @@ Signal_Proof/
     ├── src/app/           # Next.js app pages & components
     ├── package.json       # Frontend dependencies
     └── public/
-
-```
-
 ---
 
 ## 🛠️ Setup & Local Installation
