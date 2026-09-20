@@ -1,3 +1,5 @@
+🌐 **Live Demo (Frontend)**: https://signal-proof-five.vercel.app  
+⚙️ **API Endpoint (Backend)**: https://signal-proof-backend.onrender.com
 # 🛡️ SignalProof — Real-Time Emergency Intelligence & Verification Engine
 
 SignalProof is an AI-powered emergency verification and intelligence system designed for citizens in India. By cross-referencing citizen incident reports against nationwide official RSS bulletins (NDMA, IMD, local authorities), SignalProof provides real-time hazard verification scores, dynamic location mapping, and empathetic, actionable safety guidance.
