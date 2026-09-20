@@ -1,3 +1,4 @@
+```markdown
 # 🛡️ SignalProof — Real-Time Emergency Intelligence & Verification Engine
 
 SignalProof is an AI-powered emergency verification and intelligence system designed for citizens in India. By cross-referencing citizen incident reports against nationwide official RSS bulletins (NDMA, IMD, local authorities), SignalProof provides real-time hazard verification scores, dynamic location mapping, and empathetic, actionable safety guidance.
@@ -38,6 +39,9 @@ Signal_Proof/
     ├── src/app/           # Next.js app pages & components
     ├── package.json       # Frontend dependencies
     └── public/
+
+```
+
 ---
 
 ## 🛠️ Setup & Local Installation
@@ -61,8 +65,7 @@ conda activate signal_proof
 # Install dependencies
 pip install -r requirements.txt
 
-# Configure .env file
-# Create a .env file inside backend/ directory:
+# Configure .env file inside backend/ directory:
 GROQ_API_KEY=your_groq_api_key_here
 PINECONE_API_KEY=your_pinecone_api_key_here  # optional if vector store enabled
 
@@ -107,19 +110,5 @@ GROQ_API_KEY=gsk_your_groq_api_key_here
 Distributed under the MIT License.
 
 ```
-
----
-
-### **Git Push Commands**
-
-Run these in your terminal to commit and publish live:
-
-```bash
-# From Signal_Proof root directory
-git add .
-git commit -m "feat: complete SignalProof India emergency verification engine"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/SignalProof.git
-git push -u origin main
 
 ```
